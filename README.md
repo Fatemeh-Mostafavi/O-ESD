@@ -14,3 +14,7 @@ metrics and view layers (numerical), noise level (numerical), acoustic comfort (
 window orientations (categorical). 
 
 ![Figure1](https://github.com/user-attachments/assets/7df6c416-46c3-44fd-b0b3-edac280dde43)
+
+Code: The data refinement, attribute addition, and attribute transformation approaches can be followed in the O-ESD.ipynb, the separation of unit-level data in the Units of O-ESD.ipynb, and the micro-climatic context visualization in Context Visualization of O-ESD.ipynb.
+
+Data: the train, validation, and test split of the O-ESD dataset can be accessed through the O-ESD dataset.zip file.
