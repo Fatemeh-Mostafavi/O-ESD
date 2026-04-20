@@ -18,3 +18,6 @@ window orientations (categorical).
 Code: The data refinement, attribute addition, and attribute transformation approaches can be followed in the O-ESD.ipynb, the separation of unit-level data in the Units of O-ESD.ipynb, and the micro-climatic context visualization in Context Visualization of O-ESD.ipynb.
 
 Data: the train, validation, and test split of the O-ESD dataset can be accessed through the O-ESD dataset.zip file.
+
+# Citation
+Mostafavi F, Khademi S, Vrachliotis G (2026;), "Towards environmentally enriched floor layout datasets: a workflow for transitioning the existing data in the built environment". Smart and Sustainable Built Environment, Vol. ahead-of-print No. ahead-of-print. https://doi.org/10.1108/SASBE-10-2025-0684
