@@ -21,3 +21,6 @@ Data: the train, validation, and test split of the O-ESD dataset can be accessed
 
 # Citation
 Mostafavi F, Khademi S, Vrachliotis G (2026;), "Towards environmentally enriched floor layout datasets: a workflow for transitioning the existing data in the built environment". Smart and Sustainable Built Environment, Vol. ahead-of-print No. ahead-of-print. https://doi.org/10.1108/SASBE-10-2025-0684
+
+# Dataset repository
+The complete O-ESD tabular data can be accessed via: https://doi.org/10.4121/d8a5eb90-0269-4a4b-b672-f1dd9b351836.v1
